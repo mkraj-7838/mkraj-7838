@@ -25,5 +25,5 @@ I'm a 3rd-year student at NIT Delhi with a passion for Problem Solving and Web d
 ![Profile Views](https://komarev.com/ghpvc/?username=mkraj-7838&color=brightgreen)
 
 ## Contact
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhalp)
-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhsinghalp@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-prajapati-285a53264/)
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialmkraj@gmail.com)
