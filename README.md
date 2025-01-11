@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**mkraj-7838/mkraj-7838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mohit 👋
 
-Here are some ideas to get you started:
+## About Me
+I'm a 3rd-year student at NIT Delhi with a passion for Problem Solving and Web development. I enjoy building web applications that improve user experiences and exploring new technologies in the field of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: C, C++, Python, JavaScript
+- **Frameworks**: React, Node.js
+- **Tools**: VS Code, Git, Docker
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mkraj-7838&show_icons=true&theme=dark&locale=en" alt="mkraj-7838" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkraj-7838&show_icons=true&theme=dark&locale=en&layout=compact" alt="mkraj-7838" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkraj-7838&theme=dark" alt="jigar-sable" /></p>
+  </div>
+
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=mkraj-7838&color=brightgreen)
+
+## Contact
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhalp)
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhsinghalp@gmail.com)
