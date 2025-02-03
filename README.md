@@ -23,8 +23,9 @@ I'm a 3rd-year student at NIT Delhi with a passion for Problem Solving and Web d
   
   </div>
 
-  ![](https://leetcard.jacoblin.cool/mohit_parjapati?ext=heatmap)
-
+<div align="center">
+  ![](https://leetcard.jacoblin.cool/mohit_prajapati?ext=heatmap)
+</div>
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=mkraj-7838&color=brightgreen)
