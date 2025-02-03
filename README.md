@@ -18,14 +18,12 @@ I'm a 3rd-year student at NIT Delhi with a passion for Problem Solving and Web d
 
 
 
-<div align="center">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkraj-7838&theme=dark" alt="streak-stats" /></p>
   
-  </div>
 
-<div align="center">
   ![](https://leetcard.jacoblin.cool/mohit_prajapati?ext=heatmap)
-</div>
+
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=mkraj-7838&color=brightgreen)
