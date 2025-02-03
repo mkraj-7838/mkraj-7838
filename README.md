@@ -16,8 +16,6 @@ I'm a 3rd-year student at NIT Delhi with a passion for Problem Solving and Web d
   </tr>
 </table>
 
-# My GitHub Profile
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mohit_prajapati)](https://leetcode.com/mohit_prajapati/)
 
 
