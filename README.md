@@ -16,11 +16,11 @@ I'm a 3rd-year student at NIT Delhi with a passion for Problem Solving and Web d
   </tr>
 </table>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mohit_prajapati)](https://leetcode.com/mohit_prajapati/)
 
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkraj-7838&theme=dark" alt="streak-stats" /></p>
+  ![](https://leetcard.jacoblin.cool/mohit_parjapati?ext=heatmap)
   </div>
 
 
